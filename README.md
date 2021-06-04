@@ -1,2 +1,2 @@
 # eXplainable-AI-ADE
-Notebooks Created for my Bachelors Thesis
+Notebooks Created for my Bachelor's Thesis
